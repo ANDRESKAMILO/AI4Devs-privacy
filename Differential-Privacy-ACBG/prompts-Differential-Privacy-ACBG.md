@@ -167,5 +167,3 @@ Si excelente, entonces:
 
 
 
-
-### Prompt28: ChatBot: ChatGpt 4.0
